@@ -34,7 +34,7 @@ It works with light/dark themes and supports both Spanish and English interfaces
   - List of extracted text blocks (editable).
   - Export buttons.
 
-       -VIDEO PLAYER CONTROLS-  
+        -VIDEO PLAYER CONTROLS-  
 
   - 📁 Open Video: Select a video file (MP4, MKV, AVI, MOV).
   - ▶️ / ⏸️ Play/Pause: Starts or stops playback.
@@ -84,7 +84,7 @@ TXT
 Dialog: Choose output path.
 
                     -KEYBOARD SHORTCUTS-  
-
+                    
 - Space: Play/Pause.
 - Left Arrow: Rewind 2s.
 - Right Arrow: Fast forward 5x (hold).
