@@ -1,6 +1,6 @@
-# ESFV-Extract_Subtitles_From_Video
+# ESFV - Extract Subtitles From Video
 
-<script type='text/javascript' src='https://storage.ko-fi.com/cdn/widget/Widget_2.js'></script><script type='text/javascript'>kofiwidget2.init('Support me on Ko-fi', '#15a353', 'J3J31N82KX');kofiwidget2.draw();</script> 
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/J3J31N82KX)
 
 ESFV is a desktop application designed to extract text from videos using OCR (Optical Character Recognition).
 It allows you to play videos, pause on specific frames, extract subtitles or any on-screen text,
