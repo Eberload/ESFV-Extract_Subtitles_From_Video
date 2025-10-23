@@ -2,6 +2,8 @@
 
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/J3J31N82KX)
 
+![Image Alt]([image_url](https://github.com/Eberload/ESFV-Extract_Subtitles_From_Video/blob/main/ESFV%201.0.png?raw=true))
+
 ESFV is a desktop application designed to extract text from videos using OCR (Optical Character Recognition).
 It allows you to play videos, pause on specific frames, extract subtitles or any on-screen text,
 edit them, and export them in .TXT or .SRT (standard subtitle) formats.
