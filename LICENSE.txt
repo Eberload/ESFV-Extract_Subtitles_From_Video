@@ -1,0 +1,91 @@
+-----------------------------------------ESPAÑOL-----------------------------------------------------
+Versión 1.0
+Fecha: Octubre de 2025
+Desarrollador: eberload
+
+                           -DESCRIPCIÓN-
+
+ESFV es un software de código cerrado distribuido bajo el modelo de Donationware.
+Esto significa que el software es completamente gratuito para su uso personal, educativo o comercial.
+Puedes usarlo, copiarlo y distribuirlo libremente sin costo alguno.
+Sin embargo, si encuentras valor en esta herramienta y deseas apoyar su desarrollo futuro,
+se anima encarecidamente a que realices una donación voluntaria al desarrollador.
+Tu contribución ayuda a mantener y mejorar ESFV, permitiendo nuevas características,
+correcciones de errores y posible soporte a futuro. 
+
+                            -PERMISOS-
+
+Bajo esta licencia, se concede permiso ilimitado para:
+Usar el software para cualquier propósito, personal, educativo o comercial.
+Copiar y distribuir copias del software en su forma original.
+No se requiere pago ni registro para acceder o usar ESFV 1.0.
+
+                          -RESTRICCIONES-
+
+Atribución: Si distribuyes el software, incluye la copia de esta licencia.
+No comercializar como producto de pago: No puedes vender el software como si fuera un producto de pago.
+Aunque las donaciones voluntarias al desarrollador original @eberload están permitidas y alentadas.
+Uso malicioso: No uses el software para actividades ilegales o dañinas.
+
+                           -DONACIONES-
+
+Si deseas donar para apoyar el desarrollo de ESFV:
+Visita el perfil del desarrollador en https://ko-fi.com/eberload
+Cualquier monto es apreciado y ayuda a que herramientas como esta sigan siendo gratuitas y accesibles.
+Si tienes sugerencias o reportes de errores, contáctame en GitHub o en redes sociales @eberload.
+¡Gracias por considerar una donación!🖤
+
+                     -DESCARGO DE RESPONSABILIDAD-
+
+ESTE SOFTWARE SE PROPORCIONA "TAL CUAL", SIN GARANTÍAS DE NINGÚN TIPO, YA SEA EXPLÍCITAS O IMPLÍCITAS,
+INCLUYENDO, SIN LIMITACIÓN, LAS GARANTÍAS DE COMERCIABILIDAD, IDONEIDAD PARA UN PROPÓSITO PARTICULAR O NO INFRACCIÓN.
+EL DESARROLLADOR NO SE RESPONSABILIZA DE NINGÚN DAÑO O PÉRDIDA DERIVADA DEL USO O INCAPACIDAD DE USAR EL SOFTWARE,
+INCLUYENDO, PERO NO LIMITADO A, DAÑOS DIRECTOS, INDIRECTOS, INCIDENTALES, ESPECIALES, EJEMPLARES O CONSECUENTES.
+EL USUARIO ASUME TODO EL RIESGO ASOCIADO CON EL USO DEL SOFTWARE.
+
+-----------------------------------------ENGLISH-----------------------------------------------------
+
+Version 1.0
+Date: October 2025
+Developer: eberload
+
+                      -DESCRIPTION-  
+
+ESFV is a closed-source software distributed under the Donationware model.
+This means the software is completely free for personal, educational, or commercial use.
+You may use, copy, and distribute it freely at no cost.
+However, if you find value in this tool and wish to support its future development,
+you are strongly encouraged to make a voluntary donation to the developer.
+Your contribution helps maintain and improve ESFV, enabling new features,
+bug fixes, and possible future support.
+
+                       -PERMISSIONS-  
+
+Under this license, unlimited permission is granted to:
+Use the software for any purpose, personal, educational, or commercial.
+Copy and distribute copies of the software in its original form.
+No payment or registration is required to access or use ESFV 1.0.
+
+                      -RESTRICTIONS-  
+
+Attribution: If you distribute the software, include a copy of this license.
+No commercial sale as a paid product: You may not sell the software as if it were a paid product.
+However, voluntary donations to the original developer @eberload are allowed and encouraged.
+Malicious use: Do not use the software for illegal or harmful activities.
+
+                       -DONATIONS-  
+
+If you wish to donate to support the development of ESFV:
+Visit the developer’s profile at https://ko-fi.com/eberload
+
+Any amount is appreciated and helps keep tools like this free and accessible.
+If you have suggestions or bug reports, contact me on GitHub or social media @eberload.
+Thank you for considering a donation! 🖤
+
+                       -DISCLAIMER-  
+
+THIS SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTIES OF ANY KIND, EITHER EXPRESS OR IMPLIED,
+INCLUDING, BUT NOT LIMITED TO, THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, OR NON-INFRINGEMENT.
+THE DEVELOPER SHALL NOT BE LIABLE FOR ANY DAMAGE OR LOSS ARISING FROM THE USE OR INABILITY TO USE THE SOFTWARE,
+INCLUDING, BUT NOT LIMITED TO, DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES.
+THE USER ASSUMES ALL RISK ASSOCIATED WITH THE USE OF THE SOFTWARE.
