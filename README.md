@@ -2,7 +2,7 @@
 
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/J3J31N82KX)
 
-![alt text](ESFV_1.0.0.png "1.0.0 version in Windows")
+![alt text](https://github.com/Eberload/ESFV-Extract_Subtitles_From_Video/blob/main/Screenshots/ESFV_1.0.0.png "ESFV 1.0.0")
 
 ESFV is a desktop application designed to extract text from videos using OCR (Optical Character Recognition).
 It allows you to play videos, pause on specific frames, extract subtitles or any on-screen text,
@@ -11,7 +11,7 @@ edit them, and export them in .TXT or .SRT (standard subtitle) formats.
 The application supports video formats MP4, MKV, AVI, and MOV.
 It works with light/dark themes and supports both Spanish and English interfaces.
 
-![alt text](https://github.com/Eberload/ESFV-Extract_Subtitles_From_Video/blob/5f404b7955e61fd6674e4a47bb19ec330014575b/Screenshots/ESFV_I_E.jpg "1.0.0 version in Windows")
+![alt text](https://github.com/Eberload/ESFV-Extract_Subtitles_From_Video/blob/5f404b7955e61fd6674e4a47bb19ec330014575b/Screenshots/ESFV_I_E.jpg "Install")
 
     -INSTALLATION AND EXECUTION-  
 
@@ -21,6 +21,8 @@ It works with light/dark themes and supports both Spanish and English interfaces
   - If you use antivirus software, make sure it allows execution (false positives are common for .exe files).
   - Note: On the first run, EasyOCR will download language models (Spanish/English).
   - The executable is standalone and includes all necessary dependencies.
+
+![alt text](https://github.com/Eberload/ESFV-Extract_Subtitles_From_Video/blob/0285115b8d1bd0eeeced0fe721a1cf3f1ec4685d/Screenshots/ESFV_B.jpg "Interface")
 
         -USER INTERFACE-  
 
@@ -35,6 +37,8 @@ It works with light/dark themes and supports both Spanish and English interfaces
   - List of extracted text blocks (editable).
   - Export buttons.
 
+![alt text](https://github.com/Eberload/ESFV-Extract_Subtitles_From_Video/blob/0285115b8d1bd0eeeced0fe721a1cf3f1ec4685d/Screenshots/ESFV_PLY.jpg "Player")
+
         -VIDEO PLAYER CONTROLS-  
 
   - 📁 Open Video: Select a video file (MP4, MKV, AVI, MOV).
@@ -44,6 +48,8 @@ It works with light/dark themes and supports both Spanish and English interfaces
   - 🔊 Volume: Toggle mute (M). Slider adjusts level (0–100%).
   - ⛶ Fullscreen: Toggles fullscreen mode.
 
+![alt text](https://github.com/Eberload/ESFV-Extract_Subtitles_From_Video/blob/0285115b8d1bd0eeeced0fe721a1cf3f1ec4685d/Screenshots/ESFV_PLB.jpg "OCR")
+
 OCR MODULE: TEXT EXTRACTION
   - Open a video.
   - Play and pause (Space) on the desired frame.
@@ -52,7 +58,9 @@ OCR MODULE: TEXT EXTRACTION
   - Result: If text is detected, a “Text Block” is created in the right panel list. A success message appears.
   - If no text is detected: Error message (“No text detected in the image”).
   - Cancel: “❌ Cancel Extraction” (confirmation dialog).
-    
+
+![alt text](https://github.com/Eberload/ESFV-Extract_Subtitles_From_Video/blob/0285115b8d1bd0eeeced0fe721a1cf3f1ec4685d/Screenshots/ESFV_ETC.jpg "Text")
+
         -TIPS-  
 
 1. Pause on clear frames with visible text to improve OCR accuracy, and manually edit if needed.
