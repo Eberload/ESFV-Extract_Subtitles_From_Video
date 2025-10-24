@@ -11,6 +11,8 @@ edit them, and export them in .TXT or .SRT (standard subtitle) formats.
 The application supports video formats MP4, MKV, AVI, and MOV.
 It works with light/dark themes and supports both Spanish and English interfaces.
 
+![alt text](https://github.com/Eberload/ESFV-Extract_Subtitles_From_Video/blob/cde5aeac1d2d66fc34ff883cdd5227a3a8eaded9/Screenshots/ESFV_I_E_L.png "1.0.0 version in Windows")
+
     -INSTALLATION AND EXECUTION-  
 
   - Download the executable file "ESFV.exe" from the link provided by the developer.
