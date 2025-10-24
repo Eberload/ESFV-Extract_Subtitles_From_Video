@@ -11,8 +11,7 @@ edit them, and export them in .TXT or .SRT (standard subtitle) formats.
 The application supports video formats MP4, MKV, AVI, and MOV.
 It works with light/dark themes and supports both Spanish and English interfaces.
 
-                -INSTALLATION AND EXECUTION-  
-
+    -INSTALLATION AND EXECUTION-  
 
   - Download the executable file "ESFV.exe" from the link provided by the developer.
   - No installation required: simply run the “.exe” file by double-clicking it.
@@ -21,7 +20,7 @@ It works with light/dark themes and supports both Spanish and English interfaces
   - Note: On the first run, EasyOCR will download language models (Spanish/English).
   - The executable is standalone and includes all necessary dependencies.
 
-                  -USER INTERFACE-  
+        -USER INTERFACE-  
 
   - The interface is divided into two main panels:
   - Left Panel: Video Player.
@@ -43,10 +42,6 @@ It works with light/dark themes and supports both Spanish and English interfaces
   - 🔊 Volume: Toggle mute (M). Slider adjusts level (0–100%).
   - ⛶ Fullscreen: Toggles fullscreen mode.
 
-PROGRESS BAR AND TIME
-  - Drag to seek position.
-  - Label shows current / total time (HH:MM:SS).
-
 OCR MODULE: TEXT EXTRACTION
   - Open a video.
   - Play and pause (Space) on the desired frame.
@@ -55,35 +50,13 @@ OCR MODULE: TEXT EXTRACTION
   - Result: If text is detected, a “Text Block” is created in the right panel list. A success message appears.
   - If no text is detected: Error message (“No text detected in the image”).
   - Cancel: “❌ Cancel Extraction” (confirmation dialog).
-
-BLOCK EDITING:
-    Each block shows:
-  - Number: Block #1, #2, etc.
-  - Start: Capture time (HH:MM:SS, editable).
-  - End: Initially empty; use “⏹️ Set End” to record the current position.
-  - Validation: Format HH:MM:SS.
-  - Delete: Removes the selected block.
-  - Automatic scroll to the new block.
-
-                     -TIPS-  
+    
+        -TIPS-  
 
 1. Pause on clear frames with visible text to improve OCR accuracy, and manually edit if needed.
 2. The start time is set automatically, but the end time must be set manually — let the video play forward and click “Set End”.
 
-                   -EXPORT TEXT-  
-
-Buttons are enabled when at least one block exists.
-
-SRT
-  - Verify Start - End time formats.
-  - Errors: Dialog listing issues.
-
-TXT
-  - 📄 Export TXT: Saves blocks as “[HH:MM:SS] Text here”.
-
-Dialog: Choose output path.
-
-                    -KEYBOARD SHORTCUTS-  
+       -KEYBOARD SHORTCUTS-  
                     
 - Space: Play/Pause.
 - Left Arrow: Rewind 2s.
@@ -107,7 +80,7 @@ editarlos y exportarlos en formatos .TXT o .SRT (subtítulos estándar).
 La aplicación soporta videos en formatos MP4, MKV, AVI y MOV.
 Funciona en temas claro/oscuro, interfaz en español/inglés.
 
-                    -INSTALACIÓN Y EJECUCIÓN-
+    -INSTALACIÓN Y EJECUCIÓN-
 
   - Descarga el archivo ejecutable "ESFV.exe" desde el enlace proporcionado por el desarrollador.
   - No requiere instalación: simplemente ejecuta el archivo ".exe" haciendo doble clic.
@@ -117,7 +90,7 @@ Funciona en temas claro/oscuro, interfaz en español/inglés.
 Nota: En la primera ejecución, EasyOCR descargará modelos de idioma (español/inglés).
 El ejecutable es standalone, incluye todas las dependencias necesarias.
 
-                      -INTERFAZ DE USUARIO-
+    -INTERFAZ DE USUARIO-
 
 La interfaz se divide en dos paneles principales:
 
@@ -131,7 +104,7 @@ La interfaz se divide en dos paneles principales:
   - Lista de bloques de texto extraídos (editable).
   - Botones de exportación. 
 
-               -CONTROLES DEL REPRODUCTOR DE VIDEO-
+        -CONTROLES DEL REPRODUCTOR DE VIDEO-
 
    - 📁 Abrir Video: Selecciona un archivo de video (MP4, MKV, AVI, MOV).
    - ▶️ / ⏸️ Reproducir/Pausar: Inicia o detiene la reproducción.
@@ -139,10 +112,6 @@ La interfaz se divide en dos paneles principales:
    - ⏩ Avance Rápido: Acelera a 5x mientras se mantiene presionado.
    - 🔊 Volumen: Alterna silencio (M). Deslizador ajusta nivel (0-100%).
    - ⛶ Pantalla Completa: Alterna modo fullscreen.
-
-BARRA DE PROGRESO Y TIEMPO
-   - Desliza para buscar posición.
-   - Etiqueta muestra tiempo actual / total (HH:MM:SS).
 
 MÓDULO OCR: EXTRACCIÓN DE TEXTO
    - Abre un video.
@@ -153,34 +122,11 @@ MÓDULO OCR: EXTRACCIÓN DE TEXTO
    - Si no hay texto: Mensaje de error ("No se detectó texto en la imagen").
    - Cancelar: "❌ Cancelar Extracción" (confirma con diálogo).
 
-EDICIÓN DE BLOQUES:
-     Cada bloque muestra:
-   - Número: Bloque #1, #2, etc.
-   - Inicio: Tiempo de captura (HH:MM:SS, editable).
-   - Fin: Vacío inicialmente; usa "⏹️ Establecer Fin" para usar posición actual.
-   - Validación: Formato HH:MM:SS.
-   - Eliminar: Elimina el bloque seleccionado.
-   - Scroll automático al nuevo bloque.
-
-                              -CONSEJOS-
+                            -CONSEJOS-
 
 1. Pausa en frames con textos claros para mejorar la precisión OCR y edita manualmente si hay errores.
 2. El punto de inicio se configura automáticamente,
 pero el final se establece manualmente, deja avanzar el video y haz clic en "establecer fin".
-
-
-                          -EXPORTAR TEXTO-
-
-Los botones se habilitan con al menos un bloque.
-
-SRT
-   - Verifica formatos de tiempo de Inicio - Fin.
-   - Errores: Diálogo con lista.
-
-TXT
-   - 📄 Exportar TXT: Guarda bloques como "[HH:MM:SS] Texto aquí".
-
-Diálogo: Selecciona ruta.
 
                         -ATAJOS DE TECLADO-
 
